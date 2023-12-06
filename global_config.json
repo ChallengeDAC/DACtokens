@@ -1,6 +1,6 @@
 {
-  "version_identification_ios": "beta",
-  "version_identification_android": "beta",
+  "version_identification_ios": "public",
+  "version_identification_android": "public",
   "version_name": "1.0",
   "version_preview_declared_rule": "all",
   "share_challenge_text": "Check this awesome challenge now!\n$description\n\nSend friend request to account and join the challenge!\n\nAccount: $accountName\nUrl: https://web.challengedapp.io/challenge/$id",
@@ -50,27 +50,5 @@
       "https://firebasestorage.googleapis.com/v0/b/challengedacofficial.appspot.com/o/jackpot-major-xxxhdpi.png?alt=media"
     ]
   },
-  "maintaining_versions": [
-    "1.6.6",
-    "1.7.0",
-    "1.7.7",
-    "1.8.0",
-    "1.8.1",
-    "1.8.2",
-    "1.6.4",
-    "1.6.6-hotfix-android",
-    "1.6.4-ios",
-    "1.8.3",
-    "1.8.4",
-    "1.8.5",
-    "1.8.6",
-    "1.8.7",
-    "1.8.4-hotfix-ios",
-    "8.1.3",
-    "8.1.4",
-    "8.1.3-hotfix-ios",
-    "8.1.4-hotfix-ios",
-    "1.8.2",
-    "8.0.2"
-  ]
+  "maintaining_versions": []
 }
